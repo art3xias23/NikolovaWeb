@@ -1,0 +1,520 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"do",
+				"doSomething"
+			],
+			[
+				"yea",
+				"yearsUntil"
+			],
+			[
+				"years",
+				"yearsLeft"
+			],
+			[
+				"chrmo",
+				"google-chrome"
+			],
+			[
+				"chrm",
+				"chromium-browser"
+			],
+			[
+				"assert",
+				"assert_response"
+			],
+			[
+				"end",
+				"end_date"
+			],
+			[
+				"reser",
+				"reservation_params"
+			],
+			[
+				"p",
+				"pictures"
+			],
+			[
+				"confir",
+				"confirmation_sent_at"
+			],
+			[
+				"confirma",
+				"confirmation_token"
+			],
+			[
+				"btn",
+				"btn-primary"
+			],
+			[
+				"u",
+				"userdatabase"
+			],
+			[
+				"nasa",
+				"nasa_api"
+			],
+			[
+				"pass",
+				"password_confirmation"
+			],
+			[
+				"password",
+				"password_field"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 372.0,
+		"last_filter": "list",
+		"selected_items":
+		[
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			],
+			[
+				"set Syntax:Ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"set Syntax:Css",
+				"Set Syntax: CSS"
+			],
+			[
+				"setsyn",
+				"Preferences: Settings – Syntax Specific"
+			],
+			[
+				"setsyntax:haml",
+				"Set Syntax: Ruby Haml"
+			],
+			[
+				"set syntax:css",
+				"Set Syntax: CSS"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"setsyntax:css",
+				"Set Syntax: CSS"
+			],
+			[
+				"package control:install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/art3xias/Desktop/Programs/1JavaScript/tedi.html",
+		"/home/art3xias/Desktop/Programs/1JavaScript/untitled.html",
+		"/home/art3xias/.config/sublime-text-3/Packages/User/View In Browser.sublime-settings",
+		"/home/art3xias/.config/sublime-text-3/Packages/View In Browser/View In Browser.sublime-settings",
+		"/home/art3xias/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/art3xias/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+		"/home/art3xias/.config/sublime-text-3/Packages/User/Babel.sublime-settings",
+		"/home/art3xias/.config/sublime-text-3/Packages/User/JavaScript.sublime-build",
+		"/home/art3xias/.config/sublime-text-3/Packages/User/chrome1.sublime-build",
+		"/home/art3xias/.config/sublime-text-3/Packages/User/chrome.sublime-build",
+		"/home/art3xias/.config/sublime-text-3/Packages/User/Package Control.sublime-settings",
+		"/home/art3xias/.config/sublime-text-3/Packages/User/JavaSCript.sublime-build",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/app/views/rooms/index.html.erb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/app/views/users/index.html.erb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/app/views/users/edit.html.erb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/app/views/rooms/_form.html.erb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/app/views/shared/_navbar.html.erb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/app/views/static_pages/home.html.erb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/app/models/room.rb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/app/assets/stylesheets/application.scss",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/app/views/reviews/_list.html.erb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/app/views/rooms/show.html.erb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/test/fixtures/reviews.yml",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/app/views/users/show.html.erb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/app/views/messages/index.html.erb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/app/views/conversations/index.html.erb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/test/models/review_test.rb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/app/views/reservations/your_reservations.html.erb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/app/views/reservations/your_trips.html.erb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/app/models/review.rb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/test/models/room_test.rb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/test/controllers/users_controller_test.rb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/test/fixtures/rooms.yml",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/test/fixtures/users.yml",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/test/test_helper.rb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/app/views/devise/registrations/edit.html.erb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/app/controllers/users_controller.rb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/app/views/devise/registrations/new.html.erb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/test/controllers/static_pages_controller_test.rb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/app/models/user.rb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/test/models/user_test.rb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/app/controllers/rooms_controller.rb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/test/controllers/rooms_controller_test.rb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/Gemfile",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/app/views/static_pages/about.html.erb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/app/views/layouts/application.html.erb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/app/helpers/application_helper.rb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/app/views/static_pages/search.html.erb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/app/views/static_pages/contact.html.erb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/config/routes.rb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/app/controllers/static_pages_controller.rb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/app/views/shared/_footer.html.erb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/app/controllers/reservations_controller.rb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/app/views/shared/_errors.html.erb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/db/migrate/20170422145955_add_admins_to_users.rb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/app/models/admin.rb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/db/migrate/20170422145320_devise_create_admins.rb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/config/application.rb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/app/assets/javascripts/application.js",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/app/views/messages/_message.html.erb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/app/views/messages/_messages.html.erb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/app/controllers/messages_controller.rb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/app/views/messages/create.js.erb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/db/migrate/20170418170358_create_reviews.rb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/app/controllers/reviews_controller.rb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/app/views/reservations/_form.html.erb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/app/models/message.rb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/app/models/conversation.rb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/db/schema.rb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/app/controllers/conversations_controller.rb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/db/migrate/20170418151836_create_conversations.rb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/db/migrate/20170418151844_create_messages.rb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/app/controllers/pictures_controller.rb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/app/controllers/resevations_controller.rb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/app/views/pictures/destroy.js.erb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/app/views/pictures/_list.html.erb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/app/controllers/picture_controller.rb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/config/initializers/paperclip.rb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/app/views/devise/sessions/new.html.erb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/app/views/shared/_derror.html.erb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/config/environments/development.rb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/app/mailers/application_mailer.rb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/config/initializers/devise.rb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/app/controllers/omniauth_callbacks_controller.rb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/db/migrate/20170410161844_add_confirmable_to_devise.rb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/db/migrate/20170410161244_add_confirmable_to_devise.rb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/db/migrate/20170410160642_add_confirmable_to_devise.rb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/db/migrate/20170410154931_add_confirmable_to_devise.rb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/app/views/devise/passwords/new.html.erb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/app/views/devise/passwords/edit.html.erb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/app/views/shared/_message.html.erb",
+		"/home/art3xias/Desktop/Programs/rails/WeRent/app/controllers/application_controller.rb",
+		"/home/art3xias/Desktop/Programs/rails/alien/AirAlien - T23/app/views/layouts/application.html.erb",
+		"/home/art3xias/Desktop/Programs/rails/airb1/db/migrate/20170406200410_add_password_digest_to_users.rb",
+		"/home/art3xias/Desktop/Programs/rails/airb1/Gemfile",
+		"/home/art3xias/Desktop/Programs/rails/airb1/Gemfile.lock",
+		"/home/art3xias/Desktop/Programs/rails/airb1/db/migrate/20170406185124_create_users.rb",
+		"/home/art3xias/Desktop/Programs/rails/airb1/db/migrate/20170406195708_add_index_to_users_email.rb",
+		"/home/art3xias/Desktop/Programs/rails/airb1/test/fixtures/users.yml",
+		"/home/art3xias/Desktop/Programs/rails/Side/Rental/app/views/pages/about.html.erb",
+		"/home/art3xias/Desktop/Programs/rails/airb/app/assets/stylesheets/a",
+		"/home/art3xias/Desktop/Programs/rails/airb/app/views/static_pages/home.html.erb",
+		"/home/art3xias/Desktop/Programs/rails/airb/app/views/layouts/_shim.html.erb",
+		"/home/art3xias/Desktop/Programs/rails/airb/config/routes.rb",
+		"/home/art3xias/Desktop/Programs/rails/airb/app/views/layouts/_footer.html.erb",
+		"/home/art3xias/Desktop/Programs/rails/airb/app/views/layouts/_header.html.erb",
+		"/home/art3xias/Desktop/Programs/rails/airb/test/controllers/static_pages_controller_test.rb",
+		"/home/art3xias/Desktop/Programs/rails/airb/config/environments/development.rb",
+		"/home/art3xias/Desktop/Programs/rails/airb/Gemfile",
+		"/home/art3xias/Desktop/Programs/rails/airb/test/integration/layout_test.rb",
+		"/home/art3xias/Desktop/Programs/rails/airb/app/views/layouts/application.html.erb",
+		"/home/art3xias/Desktop/Programs/rails/airb/app/views/devise/sessions/new.html.erb",
+		"/home/art3xias/Desktop/Programs/rails/airb/app/controllers/posts_controller.rb",
+		"/home/art3xias/Desktop/Programs/rails/airb/app/views/posts/show.html.erb",
+		"/home/art3xias/Desktop/Programs/rails/airb/app/views/posts/new.html.erb",
+		"/home/art3xias/Desktop/Programs/rails/airb/app/views/posts/index.html.erb",
+		"/home/art3xias/Desktop/Programs/rails/airb/config/initializers/devise.rb",
+		"/home/art3xias/Desktop/Programs/rails/airb/app/assets/stylesheets/custom.scss",
+		"/home/art3xias/Desktop/Programs/rails/airb/app/views/static_pages/about.html.erb",
+		"/home/art3xias/Desktop/Programs/rails/airb/app/views/static_pages/help.html.erb",
+		"/home/art3xias/Desktop/Programs/rails/airb/app/controllers/static_pages_controller.rb",
+		"/home/art3xias/Desktop/Programs/rails/airb/app/helpers/application_helper.rb",
+		"/home/art3xias/Desktop/Programs/rails/airb/app/controllers/application_controller.rb",
+		"/home/art3xias/Desktop/Programs/rails/airb/app/views/static_pages/contact.html.erb",
+		"/home/art3xias/Desktop/Programs/rails/airb/app/assets/stylesheets/application.css",
+		"/home/art3xias/Desktop/Programs/rails/airb/README.md",
+		"/home/art3xias/Desktop/Programs/tutoring/kamil/Mastermind/run_01.rb",
+		"/home/art3xias/Desktop/Programs/tutoring/kamil/Mastermind/gen_01.rb"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"/home/art3xias/Desktop/Programs/rails/WeRent",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"\n\t\t}",
+			"var t = \"tedi\"",
+			"demo",
+			"\t\t\tdocument.write(kids.push);\n",
+			"\t\t\tdocument.write(kids.push);",
+			"\t\t\tdocument.write(kids.push);\n",
+			"var natalie = new people(\"Natalie Portman\", 28);",
+			"input",
+			"body",
+			">\n",
+			"<body>",
+			"head",
+			"Currently",
+			"wish",
+			"Listings",
+			"You are not allowed",
+			"blank",
+			"Edit Profile",
+			"Edit",
+			"send",
+			"Send Message",
+			"Save",
+			"save",
+			"pho",
+			" <li>\n          <% if current_user && current_user.admin %>\n               <%= link_to users_path do %>\n                <i class=\"fa-user\"></i> Edit Users\n                <% end %>\n          <% else %>\n          <% end %>\n        </li>",
+			"airalien",
+			"air",
+			"airalien",
+			"air",
+			"pho",
+			"ava",
+			"photo",
+			"where",
+			"param",
+			"search",
+			"ava",
+			"pho",
+			"ava",
+			"per",
+			"pe",
+			"per",
+			"pe",
+			"per",
+			"ava",
+			"pho",
+			"photo",
+			"ava",
+			"phot",
+			"pho",
+			"ava",
+			"photo",
+			"ava",
+			"pho",
+			"photo",
+			"  ",
+			"reservation",
+			">\n",
+			"form",
+			"photo",
+			"pho",
+			"div",
+			"photo",
+			"users",
+			"span",
+			"pages",
+			"digest",
+			"<li><%= link_to \"Home\", root_path %></li>",
+			"permit",
+			" \n",
+			"jumbotron",
+			"jumb",
+			"backup",
+			"new_user_registration_path",
+			"\t<li></li>\n\t",
+			">\n",
+			"Ruby",
+			"',",
+			"\t<%=",
+			"AllPosts",
+			"About",
+			"div",
+			"button",
+			"AllPosts",
+			"Posts",
+			">\n",
+			"sidebar",
+			"\n  ",
+			"post",
+			"body"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"<header class=\"navbar navbar-fixed-top navbar-inverse\"> <div class=\"container\"> <div id=\"logo\"> <%= link_to \"Rental App\", root_path, id: \"logo\" %> <nav> <ul class=\"nav navbar-nav navbar-right\"> <li><%= link_to \"Home\", root_path %></li> <li><%= link_to \"Help\", help_path %></li> <li><%= link_to \"Log in\", '#' %></li> </ul> </nav> </div> </header>"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/JavaSCript.sublime-build",
+	"project": "manifest.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"picture",
+				"app/models/picture.rb"
+			],
+			[
+				"sessions_helper",
+				"app/helpers/sessions_helper.rb"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"rotes",
+				"config/routes.rb"
+			],
+			[
+				"index",
+				"app/views/posts/index.html.erb"
+			],
+			[
+				"stylesheet",
+				"app/assets/stylesheets/application.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 261.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
