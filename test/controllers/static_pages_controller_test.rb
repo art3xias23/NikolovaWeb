@@ -14,15 +14,33 @@ class StaticPagesControllerTest < ActionDispatch::IntegrationTest
   end
 
   test "should get help" do
-    get static_pages_help_url
+    get help_path
     assert_response :success
     assert_select "title", "Помощ | #{@base_title}"
   end
 
   test "should get about" do
-  	get static_pages_about_url
+  	get about_path
   	assert_response :success
     assert_select "title", "Информация | #{@base_title}"
+  end 
+
+  test "should get books" do
+    get books_path
+    assert_response :success
+    assert_select "title", "Книги | #{@base_title}"
+  end 
+
+  test "should get news" do
+    get news_path
+    assert_response :success
+    assert_select "title", "Новини | #{@base_title}"
+  end 
+
+  test "should get contac" do
+    get contact_path
+    assert_response :success
+    assert_select "title", "Контакти | #{@base_title}"
   end 
 
 end
