@@ -6,13 +6,15 @@
 
 <br />
 
-<%= link_to "Нова Книга", new_book_path, class: "btn btn-primary" %>
+<%= link_to "Нова Книга", new_book_path, class: "btn btn-primary mb1 bg-blue" %>
 <br />
 <br />
 <table class="table table-boarded table-striped">
 	<thread>
 		<tr>
 			<th>Име</th>
+			<th>Aвтор</th>
+			<th>Корица</th>
 			<th>Линк за сваляне</th>
 			<th>&nbsp;</th>
 		</tr>
@@ -20,7 +22,9 @@
 	<tbody>
 		<% @books.each do |book| %>
 		<tr>
-			<td><%= book.name%></td>
+			<td><%= book.name %></td>
+			<td><%= book.author %></td>
+			<td><%=  image_tag book.image_url.to_s%></td>
 			<td><%= link_to "Свали Книга", book.attachment_url %></td>
 			<td><%= button_to "Delete", book, method: :delete, class: "btn btn-danger", confirm: "Сигурни ли сте, че желаете да изтриете #{book.name}?" %></td>
 		</tr>

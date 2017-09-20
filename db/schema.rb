@@ -14,6 +14,8 @@ ActiveRecord::Schema.define(version: 20170920131113) do
 
   create_table "books", force: :cascade do |t|
     t.string "name"
+    t.string "author"
+    t.string "image"
     t.string "attachment"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
