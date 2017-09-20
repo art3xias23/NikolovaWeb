@@ -1,5 +1,14 @@
 Rails.application.routes.draw do
 
+  resources :books, only: [:index, :new, :create, :destroy]
+
+  get '/books', to: 'books#index'
+
+  get 'books/create'
+
+  get 'books/destroy'
+
+
   root 'static_pages#home'
 
   get '/help', to: 'static_pages#help'
@@ -8,11 +17,6 @@ Rails.application.routes.draw do
 
   get '/contact', to: 'static_pages#contact'
 
-  get '/books', to: 'static_pages#books'
-
   get '/news', to: 'static_pages#news'
-
-
-
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
 end
