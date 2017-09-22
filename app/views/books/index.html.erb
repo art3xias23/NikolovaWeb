@@ -34,7 +34,7 @@
 			<%else%>
 			
 			<%end%>
-			<td><%= button_to "Свали Книга", book.attachment_url, class: "btn-group-lg" %></td>
+			<td><%= button_to "Свали Книга", book.attachment_url, method: :get, class: "btn-group-lg" %></td>
 
 			<td><%= button_to "Изтрий", book, method: :delete, class: "btn btn-danger", confirm: "Сигурни ли сте, че желаете да изтриете #{book.name}?" %></td>
 
