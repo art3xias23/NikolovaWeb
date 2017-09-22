@@ -18,6 +18,7 @@ class BooksController < ApplicationController
   end
 
   def show
+    @book = Book.find(params[:id])
   end
 
     def edit
@@ -28,7 +29,7 @@ class BooksController < ApplicationController
     @book = Book.find(params[:id])
 
     if @book.update(book_params)
-      redirect_to(books_path, notice: "Post Updated!")
+      redirect_to(book_path, notice: "Книгата е успешно променена!")
     else 
       render 'edit'
     end 
@@ -47,7 +48,7 @@ class BooksController < ApplicationController
   private
   
   def book_params
-  	params.require(:book).permit(:name, :author, :image, :attachment)
+  	params.require(:book).permit(:name, :author, :desc,  :image, :attachment )
   end
 
 end

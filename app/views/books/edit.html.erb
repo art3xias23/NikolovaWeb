@@ -8,6 +8,9 @@
 		<%= f.label :author, 'Автор' %>
 		<%= f.text_field :author, class: "form-control"   %>
 
+		<%= f.label :desc, 'Описание' %>
+		<%= f.text_area :desc, class: "form-control", cols: 40, rows: 10   %>
+
 		<%= f.label :attachment, 'Книга' %>
 		<%= f.file_field :attachment, accept: 'pdf/doc/html/docx/mobi/epub', class: "form-control"   %>
 

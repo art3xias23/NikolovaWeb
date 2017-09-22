@@ -1,6 +1,6 @@
 Rails.application.routes.draw do
 
-  resources :books, only: [:index, :new, :create, :destroy, :edit, :update]
+  resources :books, only: [:index, :show, :new, :create, :destroy, :edit, :update]
 
   get '/books', to: 'books#index'
 

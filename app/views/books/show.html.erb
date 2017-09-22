@@ -1,0 +1,19 @@
+<% if !flash[:notice].blank? %>
+	<div class="alert alert-info">
+		<%= flash[:notice] %>
+	</div>
+<%end%>
+
+
+
+
+<div class="container">
+	<div class="row"></div>
+
+	<div class="row">
+		<div class= "col-md-6"><%= image_tag @book.image, size: "400x600" %></div>
+		<div class="col-md-6 bookauthor"><h1><%= @book.name %></strong></h1> <br><h3>от</h3> <h2><%= @book.author %></h2><br><br><br><b><%= @book.desc %></b></div>
+	</div>
+	<br>
+	<div class ="row"><%= button_to "Свали книга" , @book.attachment_url, class: "btn-group-lg" %></div>
+</div>

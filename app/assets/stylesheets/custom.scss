@@ -30,6 +30,7 @@ textarea {
 
 h1, h2, h3, h4, h5, h6 {
   line-height: 1;
+  display: inline;
 }
 
 h1 {
@@ -40,12 +41,16 @@ h1 {
 }
 
 h2 {
-  font-size: 1.2em;
+  font-size: 2em;
   letter-spacing: -1px;
   margin-bottom: 30px;
   text-align: center;
   font-weight: normal;
   color: $gray-light;
+}
+
+h3{
+  display: inline;
 }
 
 p {
@@ -69,6 +74,31 @@ p {
     color: white;
     text-decoration: none;
   }
+}
+
+/* books */
+
+.booktitle {
+
+  font-size: 3em;
+  letter-spacing: -2px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+
+.bookauthor{
+
+  font-size: 3em;
+  display: inline;
+  letter-spacing: -1px;
+  margin-bottom: 30px;
+  text-align: center;
+  font-weight: normal;
+  color: $gray-light;
+}
+
+.desc{
+  
 }
 
 /* footer */
