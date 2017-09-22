@@ -1,12 +1,9 @@
 Rails.application.routes.draw do
 
-  resources :books, only: [:index, :new, :create, :destroy]
+  resources :books, only: [:index, :new, :create, :destroy, :edit, :update]
 
   get '/books', to: 'books#index'
 
-  get 'books/create'
-
-  get 'books/destroy'
 
 
   root 'static_pages#home'

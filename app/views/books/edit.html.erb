@@ -1,0 +1,19 @@
+<h2>Промяна на книга</h2>
+
+<div class="form-group">
+	<%= form_for @book do |f| %>
+		<%= f.label :name, 'Име' %>
+		<%= f.text_field :name, class: "form-control"  %>
+
+		<%= f.label :author, 'Автор' %>
+		<%= f.text_field :author, class: "form-control"   %>
+
+		<%= f.label :attachment, 'Книга' %>
+		<%= f.file_field :attachment, accept: 'pdf/doc/html/docx/mobi/epub', class: "form-control"   %>
+
+		<%= f.label :image, 'Снимка' %>
+		<%= f.file_field :image, accept: 'jpg/jpeg/gif/png' , class: "form-control"   %>
+		<br>
+		<%= f.submit "Промени", class: "btn btn-primary" %>
+	<% end %>
+</div>

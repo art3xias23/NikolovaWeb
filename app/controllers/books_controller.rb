@@ -17,6 +17,23 @@ class BooksController < ApplicationController
   	end
   end
 
+  def show
+  end
+
+    def edit
+    @book = Book.find(params[:id])
+  end 
+
+  def update
+    @book = Book.find(params[:id])
+
+    if @book.update(book_params)
+      redirect_to(books_path, notice: "Post Updated!")
+    else 
+      render 'edit'
+    end 
+  end
+
   def destroy
   	@book = Book.find(params[:id])
 
@@ -24,6 +41,8 @@ class BooksController < ApplicationController
 
   	redirect_to books_path, notice: "Книгата е изтрита!"
   end
+
+ 
 
   private
   
